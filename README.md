@@ -1,9 +1,9 @@
 # spacenav-driver
 
-A ROS package for synchronously converting 3D motion controller events to ROS messages with given loop frequency. To run this package, you need to install these beforehand:
+A ROS package for synchronously converting 3D motion controller events to ROS messages with given loop frequency. In this package, button IDs are configured for 3Dconnexion's space-mice. To run this package, you need to install these beforehand:
 - [ROS](http://wiki.ros.org/ROS/Installation)
 - [spacenavd](https://github.com/FreeSpacenav/spacenavd)
-- [libspnav](https://github.com/FreeSpacenav/libspnav).
+- [libspnav](https://github.com/FreeSpacenav/libspnav)
 
 
 
