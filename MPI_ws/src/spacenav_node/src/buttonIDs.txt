@@ -1,0 +1,36 @@
+1		12	-
+2		13	-
+3		14	-
+4		15	-
+5		16	-
+6		17	-
+7		18	-
+8		19	-
+9		20	-
+10		21	-
+11		0
+12		0
+esc		22	-
+enter	35	-
+tab		0
+shift	24	-
+ctrl	25 / causes an error in the node
+alt		23
+space	0
+menu	0
+delete	36
+v1		0
+v2		0
+v3		0
+uppperLeft	8
+upperRight	2
+middle	26
+lowerLeft	5
+lowerRight	4
+iso1	10
+fit		1	-
+
+
+spnav python documentation
+
+https://spnav.readthedocs.io/en/latest/reference.html#spnav-event-reference
