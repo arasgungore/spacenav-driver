@@ -10,6 +10,7 @@ A ROS package for synchronously converting 3D motion controller events to ROS me
 ## Run on Terminal
 
 ```sh
+cd ./MPI_ws
 catkin_make
 source devel/setup.bash
 rosrun spacenav_node spacenav_node
