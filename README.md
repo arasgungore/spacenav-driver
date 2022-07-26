@@ -9,13 +9,13 @@ A ROS package for synchronously converting 3D motion controller events to ROS me
 
 ## Run on Terminal
 
-### Terminal 1
+### Terminal #1
 
 ```sh
 roscore
 ```
 
-### Terminal 2
+### Terminal #2
 
 ```sh
 cd ./MPI_ws
